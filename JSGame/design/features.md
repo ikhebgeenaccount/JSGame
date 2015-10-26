@@ -42,6 +42,7 @@ Allied armies extend the region to a certain maximum, enemy armies reduce the si
 Making your region as big as possible gives you several advantages in this region:  
 - The [food production](#Food production) increases
 - The economy grows faster  
+
 ####Food production
 The amount of food you produce depends on the number of villages you have occupied in a region, up to a cap. These villages are very important to the cities in a region. Because without these villages, the amount of food available for your city is very small, and with that decreases the amount of armies you can sustain. 
 Therefore, villages hold a high strategic value in a region. Enemies can take them, decreasing your food production. You yourself can defend and reinforce them. 
